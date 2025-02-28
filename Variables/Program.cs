@@ -1,6 +1,8 @@
 ﻿#region Integer Numeric Types
 
 //Integer signed: support negative numbers
+using Variables;
+
 sbyte num1 = 10; //8 bits (-128; 127)
 short num2 = 20; //16 bits (-32.768; 32.767)
 int num3 = 30; //32 bits (-2.147.483.648; 2.147.648.647)
@@ -54,5 +56,11 @@ object obj4 = new HttpClient();
 
 const double pi = 3.14;
 const string name = "Pedro";
+
+#endregion
+
+#region Enum Type
+
+Grades grades = Grades.Minimum;
 
 #endregion
