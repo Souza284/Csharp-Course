@@ -50,4 +50,9 @@ object obj4 = new HttpClient();
 
 #endregion
 
+#region Const Type
 
+const double pi = 3.14;
+const string name = "Pedro";
+
+#endregion
