@@ -64,3 +64,20 @@ const string name = "Pedro";
 Grades grades = Grades.Minimum;
 
 #endregion
+
+#region Struct Type
+
+Person p1 = new();
+
+p1.name = "Pedro";
+p1.age = 18;
+p1.height = 1.73;
+
+Person p2 = new()
+{
+    name = "Lorena",
+    age = 17,
+    height = 1.60
+};
+
+#endregion
