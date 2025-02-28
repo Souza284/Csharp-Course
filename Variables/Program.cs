@@ -32,5 +32,12 @@ char letter = 'a'; //
 
 bool check = false;
 
+#endregion
+
+#region String Type
+
+string text = "Pedro Souza Feres Kanaan";
+string message = null;
 
 #endregion
+
