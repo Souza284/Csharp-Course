@@ -41,3 +41,13 @@ string message = null;
 
 #endregion
 
+#region Object Type
+
+object obj = 100;
+object obj2 = "Pedro";
+object obj3 = false;
+object obj4 = new HttpClient();
+
+#endregion
+
+
