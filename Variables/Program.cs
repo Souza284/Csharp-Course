@@ -28,3 +28,9 @@ char letter = 'a'; //
 
 #endregion
 
+#region Bool Type
+
+bool check = false;
+
+
+#endregion
