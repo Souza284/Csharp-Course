@@ -21,3 +21,10 @@ double real2 = 12500.45; //64 bits (15 digits precision)
 decimal real3 = 745353.457M; //128 bits (28 digits precision)
 
 #endregion
+
+#region Character Type
+
+char letter = 'a'; //
+
+#endregion
+
