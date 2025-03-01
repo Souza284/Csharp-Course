@@ -1,0 +1,15 @@
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\DataConvert\bin\Debug\net8.0\DataConvert.exe
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\DataConvert\bin\Debug\net8.0\DataConvert.deps.json
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\DataConvert\bin\Debug\net8.0\DataConvert.runtimeconfig.json
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\DataConvert\bin\Debug\net8.0\DataConvert.dll
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\DataConvert\bin\Debug\net8.0\DataConvert.pdb
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\DataConvert\obj\Debug\net8.0\DataConvert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\DataConvert\obj\Debug\net8.0\DataConvert.AssemblyInfoInputs.cache
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\DataConvert\obj\Debug\net8.0\DataConvert.AssemblyInfo.cs
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\DataConvert\obj\Debug\net8.0\DataConvert.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\DataConvert\obj\Debug\net8.0\DataConvert.sourcelink.json
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\DataConvert\obj\Debug\net8.0\DataConvert.dll
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\DataConvert\obj\Debug\net8.0\refint\DataConvert.dll
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\DataConvert\obj\Debug\net8.0\DataConvert.pdb
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\DataConvert\obj\Debug\net8.0\DataConvert.genruntimeconfig.cache
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\DataConvert\obj\Debug\net8.0\ref\DataConvert.dll

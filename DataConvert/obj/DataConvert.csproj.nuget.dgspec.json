@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pedro\\Documents\\MyProjects\\Csharp-Course\\Input&Output\\Input&Output.csproj": {}
+    "C:\\Users\\Pedro\\Documents\\MyProjects\\Csharp-Course\\DataConvert\\DataConvert.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pedro\\Documents\\MyProjects\\Csharp-Course\\Input&Output\\Input&Output.csproj": {
+    "C:\\Users\\Pedro\\Documents\\MyProjects\\Csharp-Course\\DataConvert\\DataConvert.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pedro\\Documents\\MyProjects\\Csharp-Course\\Input&Output\\Input&Output.csproj",
-        "projectName": "Input&Output",
-        "projectPath": "C:\\Users\\Pedro\\Documents\\MyProjects\\Csharp-Course\\Input&Output\\Input&Output.csproj",
+        "projectUniqueName": "C:\\Users\\Pedro\\Documents\\MyProjects\\Csharp-Course\\DataConvert\\DataConvert.csproj",
+        "projectName": "DataConvert",
+        "projectPath": "C:\\Users\\Pedro\\Documents\\MyProjects\\Csharp-Course\\DataConvert\\DataConvert.csproj",
         "packagesPath": "C:\\Users\\Pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pedro\\Documents\\MyProjects\\Csharp-Course\\Input&Output\\obj\\",
+        "outputPath": "C:\\Users\\Pedro\\Documents\\MyProjects\\Csharp-Course\\DataConvert\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
