@@ -19,7 +19,6 @@ int num8 = (int)num7;
 
 #endregion
 
-
 #region Parse method
 
 string txtNumber = "198";
@@ -29,5 +28,15 @@ int number = Int32.Parse(txtNumber);
 byte num9 = byte.Parse(txtNumber);
 
 System.Console.WriteLine(num9);
+
+#endregion
+
+#region Class Convert
+
+string text = Convert.ToString(true);
+
+bool boolValue = Convert.ToBoolean(-123);
+
+System.Console.WriteLine(boolValue);
 
 #endregion
