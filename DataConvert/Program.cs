@@ -8,3 +8,13 @@ double num4 = num3;
 num2 = num1; //ushort data can store byte
 
 #endregion
+
+#region Explicit conversion
+
+ushort num5 = 100;
+byte num6 = (byte)num5;
+
+float num7 = 2500.85f;
+int num8 = (int)num7;
+
+#endregion
