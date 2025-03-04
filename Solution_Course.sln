@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Vari
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataConvert", "DataConvert\DataConvert.csproj", "{D73D3529-909C-43D9-98E3-E2965A443C13}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{E6D48B95-86B9-4359-A25B-0102D5D88F86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{D73D3529-909C-43D9-98E3-E2965A443C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D73D3529-909C-43D9-98E3-E2965A443C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D73D3529-909C-43D9-98E3-E2965A443C13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6D48B95-86B9-4359-A25B-0102D5D88F86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6D48B95-86B9-4359-A25B-0102D5D88F86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6D48B95-86B9-4359-A25B-0102D5D88F86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6D48B95-86B9-4359-A25B-0102D5D88F86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
