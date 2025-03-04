@@ -15,6 +15,12 @@ Console.WriteLine(numbers[3]);
 
 #region Bidimensional Arrays - Matrix
 
+int[,] biNumbers = new int[3, 3];
 
+biNumbers[0,0] = 10;
+biNumbers[1,0] = 12;
+
+Console.Write($"[ {biNumbers[0,0]} ]");
+Console.Write($"[ {biNumbers[1,0]} ]");
 
 #endregion
