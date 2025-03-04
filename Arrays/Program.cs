@@ -1,4 +1,4 @@
-﻿#region Unidimensional Arrays
+﻿#region Unidimensional Arrays - Vector
 
 int[] numbers = new int[5];
 
@@ -13,3 +13,8 @@ Console.WriteLine(numbers[3]);
 
 #endregion
 
+#region Bidimensional Arrays - Matrix
+
+
+
+#endregion
