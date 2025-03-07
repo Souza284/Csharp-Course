@@ -1,0 +1,15 @@
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\Classes&Objects\bin\Debug\net8.0\Classes&Objects.exe
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\Classes&Objects\bin\Debug\net8.0\Classes&Objects.deps.json
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\Classes&Objects\bin\Debug\net8.0\Classes&Objects.runtimeconfig.json
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\Classes&Objects\bin\Debug\net8.0\Classes&Objects.dll
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\Classes&Objects\bin\Debug\net8.0\Classes&Objects.pdb
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\Classes&Objects\obj\Debug\net8.0\Classes&Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\Classes&Objects\obj\Debug\net8.0\Classes&Objects.AssemblyInfoInputs.cache
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\Classes&Objects\obj\Debug\net8.0\Classes&Objects.AssemblyInfo.cs
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\Classes&Objects\obj\Debug\net8.0\Classes&Objects.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\Classes&Objects\obj\Debug\net8.0\Classes&Objects.sourcelink.json
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\Classes&Objects\obj\Debug\net8.0\Classes&Objects.dll
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\Classes&Objects\obj\Debug\net8.0\refint\Classes&Objects.dll
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\Classes&Objects\obj\Debug\net8.0\Classes&Objects.pdb
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\Classes&Objects\obj\Debug\net8.0\Classes&Objects.genruntimeconfig.cache
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\Classes&Objects\obj\Debug\net8.0\ref\Classes&Objects.dll
