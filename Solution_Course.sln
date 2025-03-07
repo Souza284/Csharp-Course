@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataConvert", "DataConvert\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{E6D48B95-86B9-4359-A25B-0102D5D88F86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes&Objects", "Classes&Objects\Classes&Objects.csproj", "{B62C5318-8975-4669-B8E8-33A3EB8ECDCE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{E6D48B95-86B9-4359-A25B-0102D5D88F86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6D48B95-86B9-4359-A25B-0102D5D88F86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6D48B95-86B9-4359-A25B-0102D5D88F86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B62C5318-8975-4669-B8E8-33A3EB8ECDCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B62C5318-8975-4669-B8E8-33A3EB8ECDCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B62C5318-8975-4669-B8E8-33A3EB8ECDCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B62C5318-8975-4669-B8E8-33A3EB8ECDCE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
