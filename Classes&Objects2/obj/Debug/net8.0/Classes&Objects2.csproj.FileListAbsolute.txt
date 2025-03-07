@@ -1,0 +1,15 @@
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\Classes&Objects2\bin\Debug\net8.0\Classes&Objects2.exe
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\Classes&Objects2\bin\Debug\net8.0\Classes&Objects2.deps.json
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\Classes&Objects2\bin\Debug\net8.0\Classes&Objects2.runtimeconfig.json
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\Classes&Objects2\bin\Debug\net8.0\Classes&Objects2.dll
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\Classes&Objects2\bin\Debug\net8.0\Classes&Objects2.pdb
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\Classes&Objects2\obj\Debug\net8.0\Classes&Objects2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\Classes&Objects2\obj\Debug\net8.0\Classes&Objects2.AssemblyInfoInputs.cache
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\Classes&Objects2\obj\Debug\net8.0\Classes&Objects2.AssemblyInfo.cs
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\Classes&Objects2\obj\Debug\net8.0\Classes&Objects2.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\Classes&Objects2\obj\Debug\net8.0\Classes&Objects2.sourcelink.json
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\Classes&Objects2\obj\Debug\net8.0\Classes&Objects2.dll
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\Classes&Objects2\obj\Debug\net8.0\refint\Classes&Objects2.dll
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\Classes&Objects2\obj\Debug\net8.0\Classes&Objects2.pdb
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\Classes&Objects2\obj\Debug\net8.0\Classes&Objects2.genruntimeconfig.cache
+C:\Users\Pedro\Documents\MyProjects\Csharp-Course\Classes&Objects2\obj\Debug\net8.0\ref\Classes&Objects2.dll
