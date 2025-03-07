@@ -16,6 +16,9 @@ internal class Program
             age = 17
         };
 
+        person1.Greet();
+        person2.Greet();
+
     }
 }
 

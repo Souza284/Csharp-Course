@@ -10,5 +10,10 @@ namespace Classes_Objects
         // Fields
         public string? name;
         public int age;
+
+        public void Greet()
+        {
+            Console.WriteLine($"Nice to meet you, I'm {name} and I'm {age} years old.");
+        }
     }
 }
